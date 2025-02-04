@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=zaidahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ## 🚀 About Me
 - 🔭 I’m currently working on **Flutter & Mobile App Development**
 - 🌱 Exploring **Backend Development** to become a full-stack mobile developer
@@ -26,10 +28,34 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,aws,mysql,mongodb,sqlite,html,css,js,react,postman" />
-</p>
+## 🛠️ Tech Stack  
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="40"/><br/>Flutter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="40"/><br/>Dart</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br/>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br/>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
+  </tr>
+</table>
 
 ---
 
@@ -40,6 +66,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmedkhan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidahmedkhan&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
