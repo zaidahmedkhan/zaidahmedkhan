@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zaidahmed&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidahmedkhan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
